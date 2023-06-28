@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 3. "I don't want to live-code this tutorial."
 
-Follow along in the jupyter notebook [here](https://nbviewer.jupyter.org/github/jkbren/networks-tutorial-oxford/blob/master/tutorial-complete.ipynb?flush_cache=true)!
+Follow along in the jupyter notebook [here](https://nbviewer.org/github/jkbren/networks-tutorial-oxford/blob/main/tutorial-complete.ipynb)!
 
 
 ## Contributors
